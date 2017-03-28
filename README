@@ -1,0 +1,11 @@
+1.sudo pip install py4j
+
+2. 选择“Run” -> "Edit Configurations" ->  "Environment variables"
+
+SPARK_HOME :Spark 安装目录
+
+PYTHONPATH : Spark安装目录下的python目录
+
+3.
+
+
